@@ -4,3 +4,8 @@
 
 [maven_repositories]
   central = https://repo1.maven.org/maven2
+
+[mac + android + react native install]
+  공식 문서: https://reactnative.dev/docs/components-and-apis
+  한글 문서: https://dev-yakuza.posstree.com/ko/react-native/install-on-mac/
+  vim 접속: https://huskdoll.tistory.com/97
