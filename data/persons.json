@@ -1,19 +1,19 @@
 [
   {
     "id" : 0,
-    "name" : "박혜민",
+    "name" : "wendy",
     "gender" : "female",
     "age": 25
   },
   {
     "id" : 1,
-    "name" : "김유진",
+    "name" : "elen",
     "gender" : "female",
     "age": 26
   },
   {
     "id" : 2,
-    "name" : "윤서연",
+    "name" : "joy",
     "gender" : "female",
     "age": 25
   }

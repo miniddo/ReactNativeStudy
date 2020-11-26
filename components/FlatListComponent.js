@@ -16,7 +16,7 @@ const FlatListComponet = () => {
           renderItem={({item}) => <Item item={item}></Item>}
           keyExtractor={item => item.id}
         />
-      </View>
+      </View>                                  
     </View>
   )
 }
